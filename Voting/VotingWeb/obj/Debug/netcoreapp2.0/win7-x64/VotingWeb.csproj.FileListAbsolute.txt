@@ -1,0 +1,14 @@
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.exe
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.deps.json
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.json
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.dev.json
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfo.cs
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csprojResolveAssemblyReference.cache
