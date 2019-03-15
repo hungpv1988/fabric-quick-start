@@ -113,7 +113,7 @@
         /// <returns></returns>
         private Uri GetProxyAddress(Uri serviceName)
         {
-            return new Uri($"http://hungphanvotingcluster.eastasia.cloudapp.azure.com:19081{serviceName.AbsolutePath}");
+            return new Uri($"http://localhost:19081{serviceName.AbsolutePath}");
         }
 
         /// <summary>
