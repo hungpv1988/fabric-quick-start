@@ -11,3 +11,4 @@ D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingData\obj\Debug\net
 D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.AssemblyInfo.cs
 D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.dll
 D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.pdb
+D:\EPiServer\Projects\AzureFabric\FabricTutorial\Voting\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.csprojResolveAssemblyReference.cache

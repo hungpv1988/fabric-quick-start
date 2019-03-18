@@ -19,12 +19,14 @@
         private readonly HttpClient httpClient;
         private readonly FabricClient fabricClient;
         private readonly StatelessServiceContext serviceContext;
+        private readonly string reverseProxyBaseUri;
 
         public VotesController(HttpClient httpClient, StatelessServiceContext context, FabricClient fabricClient)
         {
             this.fabricClient = fabricClient;
             this.httpClient = httpClient;
             this.serviceContext = context;
+            this.reverseProxyBaseUri = Environment.GetEnvironmentVariable("ReverseProxyBaseUri");
         }
 
         // GET: api/Votes
@@ -113,7 +115,7 @@
         /// <returns></returns>
         private Uri GetProxyAddress(Uri serviceName)
         {
-            return new Uri($"http://localhost:19081{serviceName.AbsolutePath}");
+            return new Uri($"{this.reverseProxyBaseUri}{serviceName.AbsolutePath}");
         }
 
         /// <summary>
